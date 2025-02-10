@@ -1,6 +1,6 @@
 {
   "sdk": {
-    "version": "6.0.428",  // Example, adjust based on what's installed
+    "version": "6.0.36",  // Example, adjust based on what's installed
     "rollForward": "latestFeature"
   }
 }
